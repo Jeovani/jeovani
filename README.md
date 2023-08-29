@@ -1,4 +1,16 @@
-### Olá, eu sou o Jeovani de Carvalho 👋
+# Olá, eu sou o Jeovani de Carvalho Sousa Gomes
+
+#
+
+# Sobre mim
+
+Apaixonado por música, momentos e pessoas, acredito que o diálogo é sempre o mais importante e que podemos sempre ir mais longe. Sou proativo, curioso e criativo. Busco sempre o melhor dentro de cada situação, com pensamento empático e muita determinação.
+
+#
+
+- 🔭 Hoje estou trabalhando como vendedor numa indústria de vidro temperado...
+- 🌱 Estou estudando Análise de Desenvolvimento de Sistema na UniBF
+e cursando na DIO Ciência de Dados com Python...
 
 #
 
@@ -14,12 +26,6 @@
 
   
 </div>
-
-#
-
-- 🔭 Hoje estou trabalhando como vendedor numa indústria de vidro temperado ...
-- 🌱 Estou estudando Análise de Desenvolvimento de Sistema na UniBF
-e cursando na DIO Ciência de Dados com Python ...
 
 #
 
