@@ -38,5 +38,3 @@ e cursando na DIO Ciência de Dados com Python...
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovani&show_icons=true&theme=dark)
-
-![snake gif](https://github.com/jeovani/jeovani/blob/output/github-contribution-grid-snake.svg)
