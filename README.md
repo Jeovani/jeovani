@@ -31,7 +31,28 @@ Apaixonado por música, momentos e pessoas, acredito que o diálogo é sempre o 
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/7227f234-f72e-4bd7-9997-edc43097e3e6.png"> - 
+      <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png">
+  
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png"> - 
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/3bcae9b4-60ea-48b7-a547-7915ea33aa3d.png"> - 
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/9d9ca366-ab09-4b4c-be29-d84e66527df4.png"> - 
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/1eaf11a9-ad02-4912-b8d5-817cedc00562.png"> - 
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/30074ba5-5b37-4a5f-876d-e2d6bcd33560.png">
+
+  <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/7c1ff6e2-4fc5-44da-b44d-d35a45451730.png"> - 
+   <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png"> - 
+    <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/e663085e-44c1-47f3-8873-0ba39113baa9.png"> - 
+     <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/2ac1b1f7-181d-42c8-bcec-4d0fbbe86593.png"> - 
+      <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png"> - 
+        <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/a77c03e1-0c3b-49c4-b6b8-e002cbc4bf90.png"> - 
+         <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/a2d924d5-dd2b-42e5-b2f9-df3040569468.png"> - 
+          <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/f1ca48a5-ad22-40af-a553-e7be72f8a7bd.png">
+               
+
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> - 
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  
   
 </div>
 
