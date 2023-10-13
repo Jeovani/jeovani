@@ -40,6 +40,9 @@ Apaixonado por música, momentos e pessoas, acredito que o diálogo é sempre o 
       <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/1eaf11a9-ad02-4912-b8d5-817cedc00562.png"> - 
        <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png"> - 
        <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/02f868eb-50a7-46f5-a55a-f61478234d41.png"> - 
+        <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/5711919e-32cd-4864-be5b-af448bcfe96d.png"> - 
+         <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/2583b5d2-4fb0-484f-a6f9-d545c3cf41a5.png"> - 
+          <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/c76372f9-1b3e-4f58-8cc1-d57e3b33b4d6.png">
   
   <img align="center" height="50" width="60" src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png"> - 
   <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/3bcae9b4-60ea-48b7-a547-7915ea33aa3d.png"> - 
@@ -65,7 +68,8 @@ Apaixonado por música, momentos e pessoas, acredito que o diálogo é sempre o 
           <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/6106392d-a600-4fca-9a87-5a57d7dcef71.png"> - 
           <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/db6a1d02-a132-45c1-8c8d-d961130b1e1b.png"> - 
           <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/a3ee03cd-158b-4d55-ba91-7a3e558fcb40.png"> - 
-          <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/89073c45-924b-45a1-9b4d-f78795f0ad28.png">
+          <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/89073c45-924b-45a1-9b4d-f78795f0ad28.png"> - 
+           <img align="center" height="50" width="60" src="https://hermes.dio.me/courses/badge/25e6ecb6-eca9-4337-a92b-a89b7d6eb520.png">
        
                
 
